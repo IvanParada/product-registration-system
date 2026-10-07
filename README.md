@@ -56,5 +56,5 @@ INSTALACIÓN
 1. Abrir en el navegador:
    
 ```text
-   http://localhost:8000
+   http://localhost:8000/index.php
    ```
